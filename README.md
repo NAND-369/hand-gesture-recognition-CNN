@@ -36,9 +36,12 @@ The CNN consists of:
 ##  Observations  
 - CNN captured hierarchical features effectively (from edges to complex patterns).  
 - Pooling layers provided **translation invariance**, improving robustness.  
-- Weight sharing reduced computational cost while maintaining accuracy.  
+- Weight sharing reduced computational cost while maintaining accuracy.
+- 
+<img width="423" height="393" alt="download (1)" src="https://github.com/user-attachments/assets/eccd3109-7d8c-464b-b9ac-923623bce834" />
 
----
+<img width="432" height="393" alt="download" src="https://github.com/user-attachments/assets/6ce1a2e4-e74e-45fb-8f02-77246c1b1dce" />
+
 
 ##  How to Run  
 1. Clone repository:  
