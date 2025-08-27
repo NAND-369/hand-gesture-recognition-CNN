@@ -1,0 +1,18 @@
+# Core deep learning libraries
+tensorflow==2.16.1
+keras==3.3.3
+
+# Data manipulation & preprocessing
+numpy==1.26.4
+pandas==2.2.2
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Model evaluation & utilities
+scikit-learn==1.5.1
+
+# Jupyter Notebook support
+jupyter==1.0.0
+notebook==7.2.1
